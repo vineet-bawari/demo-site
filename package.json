@@ -21,9 +21,9 @@
     "yarn": "^1.22.19"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.3.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
     "tailwindcss-textshadow": "^2.1.3"
   }
 }
